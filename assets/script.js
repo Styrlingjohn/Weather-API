@@ -2,7 +2,7 @@ var cityEL = document.querySelector('#city');
 var submitEL = document.querySelector('#submitButton');
 var weatherEl = document.querySelector('#weather');
 var forecastEL = document.querySelector('#forecast');
-var apiKey = '7758d981f759fb9e8753ab618d08f57d';
+var apiKey = 'd27f916493177ac6f9eb3bab02a17608';
 var search;
 
 function displayDay() {
